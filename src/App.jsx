@@ -144,7 +144,9 @@ export default function App() {
         // `THIS NON-DISCLOSURE AGREEMENTIS ENTERED INTO AS OF 5thJUNE 2024 BY AND BETWEEN:`
         // `The Parties intend to enterinto discussions to explore the possibility of undertaking the Proposed Transaction(as defined below) (the “Purpose”), and each Party (whether itself and/or through its Representatives) hasor will be disclosing Confidential Information (as defined below) to the other Party`,
         `information relating directly or indirectly to the Proposed Transaction and if applicable, its business,including but not limited to revenue and financial projections and details of, trade secrets, know-how,strategies,ideas, operations, compliance information, processes, methodologies, and practi`,
-        `The Parties have agreed to enter into this Agreement and be bound by the terms and conditions hereinafterset forth governing the disclosure, use and protection of the Confidential Informat`
+        `The Parties have agreed to enter into this Agreement and be bound by the terms and conditions hereinafterset forth governing the disclosure, use and protection of the Confidential Informat`,
+        `t, and shall be responsible for the acts and omissions ofits Representatives as if theacts and omissions are those of the receiving Par`,
+        `At the disclosing Party’s request made at any time deliver up to or destroy at the receiving Party’s own cost andexpense all documents and any other material in any medium in the possession, custody, or control of thereceiving Party and/or any of itsRepresentatives that bear or incorporate any part of ConfidentialInformation`
       ]}
       // page={2}
       // pageSearch={2}
